@@ -12,7 +12,7 @@ List of Diablo II Resurrected opens source projects
 - https://github.com/Charleon/MapAssistWpf
 - https://github.com/joffreybesos/d2r-mapview
 - https://github.com/soarqin/D2RMH
-- 
+
 ## Loot filter
 - https://github.com/Quadrat1c/D2RLootFilter
 - https://github.com/elmagnificogi/diablo2_resurrected_filter (Chinese only)
