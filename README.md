@@ -8,8 +8,6 @@ List of Diablo II Resurrected opens source projects
 
 ## Map hack
 - https://github.com/OneXDeveloper/MapAssist/tree/develop
-- https://github.com/RushTheOne/MapAssist
-- https://github.com/Charleon/MapAssistWpf
 - https://github.com/joffreybesos/d2r-mapview
 - https://github.com/soarqin/D2RMH
 
